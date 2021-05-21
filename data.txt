@@ -1,0 +1,3 @@
+Name: Nicholas
+Age: 23
+Favorite Color: Blue
